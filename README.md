@@ -1,7 +1,8 @@
 # Cloud-Detection-Tool
-a simple command tool to mask cloud in image!
+a simple command tool to mask cloud in remote sensing image!
 - download URL：
 - https://pan.baidu.com/s/1i4OU675fM1Sjwn104hl-PQ code: j5yu 
+- Our paper is under reviewing, after it has been accecpted, we will open source code! thanks for your attention!
 
 # 输入参数说明
 
@@ -13,5 +14,6 @@ a simple command tool to mask cloud in image!
 --GPUid：指定那个GPU来运算
 ```
 
-#　引用说明
+# 代码引用说明
+由于论文正在审稿中，待论文接受后，将会开源所有源码！感谢您的关注！
 
